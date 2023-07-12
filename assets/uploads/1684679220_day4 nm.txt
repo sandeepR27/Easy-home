@@ -1,0 +1,16 @@
+passing data from container component
+
+componenets to child component
+
+demo ++
+
+nested compnents.component styling
+
+component styling demo,shadow dom,view encapsulation
+
+component life cycle
+
+component styling and lifecycle quiz,view child decorator
+
+nested components and data shareing in mcart application
+
